@@ -30,7 +30,7 @@ global.thumbnail ="thumbnail_2_1.jpg"
 global.fakethumb ="thumbnail_1.jpg"
 global.donasi ="donasi.jpg"
 global.captionpay ="Scan untuk melakukan pembayaran"
-global.fake = "「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ArifXyz ×፝֟͜×"
+global.fake = "「  RIFBOTZ  」\nCreated By ᴹᴿ᭄ ArifXyz ×፝֟͜×"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
 /* Available type menu
